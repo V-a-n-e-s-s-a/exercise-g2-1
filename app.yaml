@@ -1,2 +1,2 @@
 runtime: nodejs20
-service: node-express-app
+service: default
